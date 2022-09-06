@@ -1,1 +1,2 @@
-# following-wget-https-raw.githubusercontent.com-nendonerd-coercion-visual-demo-master-deploy.sh-su
+# following-wget-https-raw.githubusercontent.com-nendonerd-coercion-visual-demo-master-deplo
+y.sh-su
